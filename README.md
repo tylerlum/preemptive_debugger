@@ -2,6 +2,8 @@
 
 A simple method to interactively preempt a running script to run a debugger
 
+![preemptive_debugger](https://github.com/tylerlum/preemptive_debugger/assets/26510814/347fa015-0174-4e1d-b26f-a55b707ced47)
+
 # Installing
 
 Install:
